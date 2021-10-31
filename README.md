@@ -38,6 +38,7 @@
 ## About The Project
 
 This project is a task tracker app built using react for UI. Used a JSON-server for mock backend. The web app lets the user capture and manage tasks along with date and time for reminder.
+![image](https://user-images.githubusercontent.com/60316903/139580990-8e8d946f-beae-493f-914b-e000a9ce8b29.png)
 
 ### Built With
 
