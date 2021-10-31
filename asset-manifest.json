@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Task-Tracker-App/static/css/main.6505a4a4.chunk.css",
+    "main.js": "/Task-Tracker-App/static/js/main.e9d76c51.chunk.js",
+    "main.js.map": "/Task-Tracker-App/static/js/main.e9d76c51.chunk.js.map",
+    "runtime-main.js": "/Task-Tracker-App/static/js/runtime-main.ee4daa06.js",
+    "runtime-main.js.map": "/Task-Tracker-App/static/js/runtime-main.ee4daa06.js.map",
+    "static/js/2.a726769f.chunk.js": "/Task-Tracker-App/static/js/2.a726769f.chunk.js",
+    "static/js/2.a726769f.chunk.js.map": "/Task-Tracker-App/static/js/2.a726769f.chunk.js.map",
+    "static/js/3.e3de0cf1.chunk.js": "/Task-Tracker-App/static/js/3.e3de0cf1.chunk.js",
+    "static/js/3.e3de0cf1.chunk.js.map": "/Task-Tracker-App/static/js/3.e3de0cf1.chunk.js.map",
+    "index.html": "/Task-Tracker-App/index.html",
+    "static/css/main.6505a4a4.chunk.css.map": "/Task-Tracker-App/static/css/main.6505a4a4.chunk.css.map",
+    "static/js/2.a726769f.chunk.js.LICENSE.txt": "/Task-Tracker-App/static/js/2.a726769f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee4daa06.js",
+    "static/js/2.a726769f.chunk.js",
+    "static/css/main.6505a4a4.chunk.css",
+    "static/js/main.e9d76c51.chunk.js"
+  ]
+}
